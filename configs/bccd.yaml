@@ -1,0 +1,7 @@
+path: C:/Users/Usser/PycharmProjects/WBC/datasets/BCCD
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+names: ['Eosinophil', 'Lymphocyte', 'Monocyte', 'Neutrophil']

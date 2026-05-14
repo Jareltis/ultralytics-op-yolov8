@@ -4,4 +4,4 @@ val: val/images
 test: test/images
 
 nc: 4
-names: ['Eosinophil', 'Lymphocyte', 'Monocyte', 'Neutrophil']
+names: ['NEUTROPHIL', 'EOSINOPHIL', 'LYMPHOCYTE', 'MONOCYTE']
